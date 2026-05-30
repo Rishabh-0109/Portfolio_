@@ -30,4 +30,5 @@ This portfolio represents my work, technical skills, and projects while highligh
 ## 👨‍💻 Author
 
 Rishabh Jain
+
 Frontend Developer & Software Engineer .
